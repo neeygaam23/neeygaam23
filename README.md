@@ -1,59 +1,63 @@
 # 👋 Hi, I'm Nigam
 
-💻 **Software Engineer** | 🚀 **Tech Learner** | 🇳🇵 From Nepal
-Currently pursuing my **Master’s degree in the UK** and passionate about building software and learning modern technologies.
+🎓 Bachelor Student in **Computer Science**  
+🏫 Studying at **IIC, Nepal** 🇳🇵  
+💻 Passionate about **Software Development and Technology**  
+🚀 Always learning and building new projects
 
 ---
 
 ## 🚀 Skills & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,react,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,html,css,mysql,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Nigam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeygaam23\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neeygaam23\&theme=tokyonight)
 
 ---
 
 ## 📚 Currently Learning
 
-* Backend Development
-* System Design
-* Advanced Python
-* Full Stack Development
+- Full Stack Web Development
+- Backend Development
+- Python Programming
+- Database Design
+- Software Engineering Concepts
 
 ---
 
 ## 💻 Projects
 
-🔹 Gym Management System
-🔹 To-Do List Desktop Application
-🔹 Web Applications using Node.js and MySQL
+🔹 Gym Management System  
+🔹 Desktop To-Do List Application  
+🔹 Web Applications using Node.js and MySQL  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeygaam23&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neeygaam23&theme=tokyonight)
 
 ---
 
 ## 🎯 Goals
 
-* Become a **skilled full-stack developer**
-* Build impactful **real-world software**
-* Contribute to **open source projects**
+- Become a **skilled software engineer**
+- Build **real-world applications**
+- Contribute to **open source projects**
+- Continuously improve my **problem-solving skills**
 
 ---
 
 ## 📫 Connect With Me
 
-💼 GitHub: https://github.com/neeygaam23
+💼 GitHub: https://github.com/neeygaam23  
 
 ---
 
-⭐ *Always learning new technologies and improving my coding skills.*
+⭐ *Always learning, always building.*
