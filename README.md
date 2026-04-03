@@ -26,23 +26,23 @@ I build software, explore new technologies, and keep learning every day.
 
 ### Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeygaam23&show_icons=true&rank_icon=github&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeygaam23&theme=github)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeygaam23&theme=github)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neeygaam23&layout=compact&hide_border=true)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeygaam23&theme=github)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeygaam23&theme=github)
 
 ### Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neeygaam23&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=neeygaam23&hide_border=true)
 
 ### Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neeygaam23&hide_border=true)
-
-### Trophy Board
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neeygaam23&no-bg=true&no-frame=true&margin-w=8)
 
 ## Connect
 
